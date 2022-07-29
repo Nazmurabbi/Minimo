@@ -1,0 +1,240 @@
+*{
+   margin: 0;
+   padding: 0;
+   }
+   /* font-family: 'Playfair Display', serif; */
+   
+   /* header part css star here */
+   header{
+   width: 90%;
+   margin: auto;
+   margin-top: 40px;
+   }
+   .log{
+   width: 25%;
+   float: left;
+   }
+   nav{
+   width: 60%;
+   float: right;
+   }
+   nav ul{
+   list-style: none;
+   }
+   nav ul li{
+   margin-left: 131px;
+   float: left;
+   text-transform: uppercase;
+   color: #626262;
+   font-family: playfare display;
+   }
+   /* header part css end here */
+   
+   /* banar part css start here */
+   .bannar{
+   width: 90%;
+   margin: auto;
+   }
+   .bannar img{
+   width: 100%;
+   }
+   /* banar part css start here */
+   
+   /* photodiry part css start here */
+   .text{
+   width: 80%;
+   margin: auto;
+   margin-top: 40px;
+   overflow: hidden;
+   }
+   .text h5{
+   text-transform: uppercase;
+   color: #b4ad9e;
+   margin-top: 25px;
+   }
+   .text h1{
+   color: #626262;
+   text-transform: capitalize;
+   margin-top: 25px;
+   }
+   .text p{
+      color: #626262;
+   letter-spacing: 1.2px;
+   margin-top: 25px;
+   }
+   /* photodiry part css end here */
+   
+   /* lifstyle css section start here */
+   
+   .lifestyle-content{
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      margin-top: 80px;
+   
+   }
+   .lifestyle-one{
+      width: 45%;
+      float: left;
+   
+   }
+   .lifestyle-one img{
+      width: 100%;
+   }
+   .lifestyle h1{
+      text-transform: capitalize;
+      color: #626262;
+      margin-top: 20px;
+   }
+   .lifestyle h5{
+      text-transform: uppercase;
+      color: #b4ad9e;
+      margin-top: 25px;
+   }
+   .lifestyle p{
+      color: #626262;
+      margin-top: 20px;
+   }
+   .lifestyle-two{
+      width: 45%;
+      float: right;
+   }
+   .lifestyle-two img{
+      width: 100%;
+   }
+   .photodiry-content{
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      margin-top: 80px;
+   
+   }
+   .photodiry-one{
+      width: 45%;
+      float: left;
+   
+   }
+   .photodiry-one img{
+      width: 100%;
+   }
+   .photodiry h1{
+      text-transform: capitalize;
+      color: #626262;
+      margin-top: 20px;
+   }
+   .photodiry h5{
+      text-transform: uppercase;
+      color: #b4ad9e;
+      margin-top: 25px;
+   }
+   .photodiry p{
+      color: #626262;
+   }
+   .photodiry-two{
+      width: 45%;
+      float: right;
+   }
+   .photodiry-two img{
+      width: 100%;
+   }
+   /* lifstyle css section end here */
+   .newslatter{
+      background: #f0f0f0;
+      padding: 64px;
+      margin-top: 100px;
+   }
+   .mail{
+   
+   width: 45%;
+   margin: auto;
+   position: relative;
+   }
+   .mail h1{
+   font-size: 34px;
+   padding-bottom: 62px;
+   text-transform: capitalize;
+   }
+  .mail input{  
+   border: none;   
+   background: none;   
+   outline: none;
+   border-bottom: 1px solid #000;
+   width: 100%;
+}
+input::placeholder{
+   text-transform: uppercase;
+   font-size: 15px;
+   font-family: 'Playfair Display', serif;
+   position: relative;
+}
+.icon{
+   position: absolute;
+   right: 0;
+   bottom: 0;
+
+   /* button section css start here */
+
+}
+.button{
+   height: 45px;
+   width: 130px;
+   border: solid 1PX #626262;
+   margin: auto;
+   margin-top: 15%;
+}
+.button h4{
+   text-transform: uppercase;
+   text-align: center;
+   font-family: 'Playfair Display', serif;
+   padding-top: 10px;
+   color: #929292;
+}
+   /* button section css start here */
+
+   /* footer section css start here */
+footer{
+      background-color: #f0f0f0;
+      margin-top: 30%;
+      overflow: hidden;
+      width: 100%px;
+      height:70px;     
+}
+.terms{
+   width: 25%;
+   float: left;
+
+
+}
+.terms ul{
+      
+}
+.terms li{
+   float: left;
+   list-style: none;
+   margin-left: 60px;
+   margin-top: 30px;
+   text-transform: capitalize;
+   color: #626262;
+
+
+}
+.social-icon{
+   width: 25%;
+   float: right;
+
+}
+.social-icon ul{
+   
+}
+.social-icon li{
+   float: left;
+   list-style: none;
+   margin-left: 60px;
+   margin-top: 30px;
+   text-transform: capitalize;
+   color: #626262;
+
+   
+} 
+
+   /* footer section css end here */
